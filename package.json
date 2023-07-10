@@ -1,0 +1,11 @@
+{
+  "name": "bc-app-info",
+  "version": "1.0.0",
+  "description": "A package for getting information from Microsoft Dynamics 365 Business Central applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joandrsn",
+  "license": "MIT"
+}
